@@ -1,7 +1,7 @@
 import sqlite3
 
 default_admins = [
-    (1, '1549748318', 1),
+    (1, '6878034221', 1),
     (2, '5712572640', 1)
 ]
 token = '7594521276:AAEyNanseIFUpZZvjl3qttq9JPJmMeaieR4'
